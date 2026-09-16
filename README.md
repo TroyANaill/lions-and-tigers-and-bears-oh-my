@@ -8,12 +8,10 @@ Credits: full credit to Brad Schiff, my code follows "Dogs, JavaScript & An API"
 
 How to run this program:
 Clone the repository:
-git clone 
-cd dogs-oh-my
-Serve the folder locally (recommended, to match how it behaves once deployed):
-  - Using VS Code: install the "Live Server" extension, right-click index.html, and select "Open with Live Server."
-  - Using Python: run python -m http.server in the project folder, then visit http://localhost:8000.
-  - Alternatively, double-click index.html to open it directly — this usually works, but some browsers restrict fetch() requests on file:// pages.
-Use the app:
+git clone https://github.com/TroyANaill/lions-and-tigers-and-bears-oh-my.git
+cd lions-and-tigers-and-bears-oh-my
+Serve the folder locally:
+  -Double click index.html to open it directly
+How to use the app:
   - Select a dog breed from the dropdown menu.
-  - A slideshow of images for that breed will automatically begin cycling.
+  - A slideshow of images for that breed will begin cycling.
